@@ -1,0 +1,23 @@
+.div-header{
+    text-align: center;
+    background-color: dimgray;
+    border-radius: 10px;
+    padding: 15px;
+}
+#main{
+    text-align: center;
+    display:none;
+    
+ }
+ #loading{
+  position:absolute;
+ }
+ #loadingDot{
+    position: relative;
+    right: -113px;
+    top: -72px;
+ }
+ #loadingDot #dot{
+       color: rgb(13, 207, 228);
+       font-size: 50px;     
+ }
